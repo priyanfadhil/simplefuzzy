@@ -1,2 +1,2 @@
 # simplefuzzy
-ini tugas besar kelompok ya, jadi ga sendiri
+Program ini dibuat untuk memenuhi tugas pemrograman 2 artificial intelligence.
